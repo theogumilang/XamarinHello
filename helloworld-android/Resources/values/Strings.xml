@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Info">This is a basic App that can take in your name, send it to a cloud app and display the response.</string>
+    <string name="Hello">Say Hello</string>
+    <string name="ApplicationName">Quickstart HelloWorld</string>
+  <string name="hint">Your name</string>
+</resources>
